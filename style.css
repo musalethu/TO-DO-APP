@@ -60,3 +60,6 @@ li:hover {
   text-decoration: none;
   background-color: floralwhite;
 }
+ul {
+  padding: 15px;
+}
